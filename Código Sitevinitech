@@ -1,2 +1,47 @@
-Acaaaa
-hhh
+---
+title: "SITEVINITECH"
+author: "GRUPO FUEGO"
+date: "2024-05-29"
+output: html_document
+---
+Sitevinitech es un evento clave para la industria del vino, donde expositores muestran las últimas tendencias en tecnología vitivinícola y agroindustrial, enfocandose en la innovación y sustentabilidad. Además, incluye conferencias, talleres y oportunidades para establecer alianzas estratégicas.
+
+<div style="text-align: center;">
+![Evento Sitevinitech](Foto 3.png)
+</div>
+## FRENCH TECH
+
+<div style="text-align: center;">
+  <img src="Logo_FT_.png" alt="Logo French Tech" style="width: 10%;"/>
+</div>
+
+La empresa visitada en el evento Sitevinitech fue la empresa French Tech.
+French Tech Argentina es una comunidad orientada a fomentar sinergias y oportunidades en el sector digital entre Argentina y Francia. Ofrece servicios de networking, conferencias, difusión de información, orientación de proyectos, representación ante organismos y promoción de oportunidades de negocio. La comunidad está compuesta por empresas, instituciones y particulares con intereses digitales. También se promueve la conexión entre ecosistemas digitales de ambos países, facilitando el intercambio de conocimientos y el desarrollo de proyectos tecnológicos.
+
+<div style="text-align: center;">
+![Conferencia French Tech](Foto 2.jpg)
+</div>
+
+## Problemática a resolver
+El objetivo principal de French Tech Argentina es ayudar a potenciar y mejorar los proyectos de terceros, quienes no reunen los medios suficientes para poder realizarlos por su cuenta. Esto se lleva a cabo mediante su red de contactos, asesoramiento y oportunidades de networking.  Su apoyo podría facilitar la conexión de sus clientes con posibles inversores y socios estratégicos que podrían financiar los proyectos.
+
+<div style="text-align: center;">
+![Reunión cliente - inversor](Foto 1.jpg)
+</div>
+
+## Evaluación cualitiva de la eficiencia de la empresa
+
+Para evaluar si las propuestas de French Tech Argentina serían efectivas para impulsar los respectivos proyectos, se pueden aplicar los siguientes métodos cualitativos:
+
+- Entrevistas en Profundidad:Consiste en hablar con otros emprendedores que hayan colaborado con French Tech Argentina para conocer sus experiencias y resultados.
+
+- Análisis Comparativo: Compara las propuestas de French Tech Argentina con otras incubadoras o aceleradoras para determinar cuál ofrece el mayor valor para los proyectos.
+
+Al combinar estos métodos, se puede obtener una visión integral y bien fundamentada sobre la viabilidad y efectividad de la colaboración con French Tech Argentina.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
